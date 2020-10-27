@@ -7,7 +7,7 @@ My implementation for the Game 2048.
 
 2. Clone this repository on your local machine
 ```
-$ git clone https://github.com/ynotauh/Game---2048
+$ git clone https://github.com/cindytony/Game---2048
 $ cd Game-2048
 ```
 3. Compile and run the file Main.java 
